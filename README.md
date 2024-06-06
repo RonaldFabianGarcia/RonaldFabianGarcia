@@ -18,6 +18,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldfabiangarcia&show_icons=true&locale=en&layout=compact&theme=dark" alt="ronaldfabiangarcia" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RonaldFabianGarcia&theme=dark&card_width=250&card_height=100&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ronaldfabiangarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ronaldfabiangarcia" height="30" width="40" /></a>
