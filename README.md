@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ronald Fabian Garcia</h1>
 <p>
-🚀 I am a software developer with over 5 years of experience, proficient in all facets of systems delivery. My professional career has spanned roles as both a Frontend and Backend developer, culminating in my current position as a specialist in mobile application development using the Flutter framework. <img src="https://komarev.com/ghpvc/?username=ronaldfabiangarcia&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldfabiangarcia" />
+🚀 I am a software developer with over 5 years of experience, proficient in all facets of systems delivery. 💻 My professional career has spanned roles as both a Frontend and Backend developer, culminating in my current position as a specialist in mobile application development using the Flutter framework 💙📱 <img src="https://komarev.com/ghpvc/?username=ronaldfabiangarcia&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldfabiangarcia" />
 </p>
 
 ### Tech Stack(current)
