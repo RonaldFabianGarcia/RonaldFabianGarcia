@@ -17,9 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronaldfabiangarcia&title=Experience,Commits" alt="ronaldfabiangarcia" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldfabiangarcia&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ronaldfabiangarcia" /></p>
-&nbsp;
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
